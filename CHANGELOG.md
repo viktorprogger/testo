@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.37](https://github.com/php-testo/testo/compare/0.10.36...0.10.37) (2026-07-03)
+
+
+### Documentation
+
+* **skills:** update mocking guidance and bridge integration for Testo ([6163ecd](https://github.com/php-testo/testo/commit/6163ecdd23e96ac53c8659f1f0f0963aaedf10e4))
+
 ## [0.10.36](https://github.com/php-testo/testo/compare/0.10.35...0.10.36) (2026-07-03)
 
 
